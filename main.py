@@ -19,3 +19,4 @@ for idx, dir in enumerate(dirs):
     writer.write(im)
     print(str(idx+1)+"/"+str(len(dirs)))
 #cv2.destroyAllWindows()
+
